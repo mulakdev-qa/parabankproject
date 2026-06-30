@@ -1,0 +1,16 @@
+{
+  "baseUrl": "https://parabank.parasoft.com/parabank/index.htm?ConnType=JDBC",
+  "user": {
+    "firstName": "Kavya",
+    "lastName": "Patil",
+    "address": "Viman nagar",
+    "city": "Pune",
+    "state": "Maharashtra",
+    "zipCode": "11110",
+    "phone": "776567898",
+    "ssn": "212",
+    "username": "Kavya",
+    "password": "Mulak@1996",
+    "confirmPassword": "Mulak@1996"
+  }
+}
